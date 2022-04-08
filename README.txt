@@ -1,4 +1,4 @@
-The following changes have been made since version 0.1.0 of Applied Psychometric Theory
+The following changes have been made since version 0.1.0 of Applied Psychometric Theory:
 
 Changes in 0.1.1
 1. There was an error in alpha.CI (error fixed)
