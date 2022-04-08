@@ -1,3 +1,11 @@
+To Install:
+
+#install.packages("remotes")
+library(remotes)
+remotes::install_github("cortrudolph/psychometric")
+
+
+
 The following changes have been made since version 0.1.0 of Applied Psychometric Theory:
 
 Changes in 0.1.1
